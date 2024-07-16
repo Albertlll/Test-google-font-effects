@@ -1,0 +1,19 @@
+*{
+    margin: 0; padding: 0;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    width: 100vw;
+    height: 100vh;
+    background-color: #0c181f;
+
+}
+
+
+*{
+    font-family: 'Montserrat';
+}
